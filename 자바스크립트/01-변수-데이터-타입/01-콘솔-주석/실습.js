@@ -1,12 +1,43 @@
-숫자(Number)값
+// 숫자(Number value or literal)값
+101;
+//정수
+0.1;
+//소수점
+15.6;
+//실수
+-20;
+//음수
 
-문자(String)값
+// 문자(String)값
+// 작은 따옴표(')
+("2px");
+// 큰 따옴표(")
+// 프로그램 문장이 끝날 때 마침을 의미하는 세미콜론 추가
+("20mm");
+// 역 따옴표(`, backtick)
+`2inch`;
 
-논리(Boolean)값
+// 논리(Boolean)값
+// - 진실 (truthy, true)
+// - 거짓 (falsy, false)
 
-터미널 값 출력
+//프로그램이 허용하지 않음 문자(정의되지 않은)
+// truthy
+// falsy
+// yes;
+// no;
+// ok
 
-주석 한 줄(single line comment)
+//프로그램이 허용하는 블리언 값
+true;
+false;
 
-여러 줄 
-주석 작성(multi line comment)
+// 터미널 값 출력
+
+// 주석 한 줄(single line comment)
+
+/* 
+여러 줄
+주석 여러 줄(multi line comment)
+css 주석과 유사
+*/
