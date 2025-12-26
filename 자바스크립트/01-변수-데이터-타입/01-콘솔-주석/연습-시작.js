@@ -57,3 +57,4 @@ console.log('멋사 프론트엔드 부트캠프 16기 화이팅!', `
   color: blue;
   font-size: 4rem;
   font-weight: 700;
+)
