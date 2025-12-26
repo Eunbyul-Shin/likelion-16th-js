@@ -33,6 +33,17 @@ true;
 false;
 
 // 터미널 값 출력
+// - 콘솔(console)
+// - 콘솔!: 기록해줘(값)
+// console.log(값);
+
+// 숫자값 출력
+console.log(9);
+//문자값 출력
+console.log("자바스크립트");
+//논리값 출력
+console.log(true);
+console.log(false);
 
 // 주석 한 줄(single line comment)
 
